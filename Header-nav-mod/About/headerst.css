@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main-div{
+    height: 5% !important;
+    width: 100% !important;
+    background-color: rgb(58, 58, 185) !important;
+}
+
+.text-decorate{
+    color: white !important;
+    text-decoration: none !important;
+}
+.text-decorate:hover{
+    color: orange !important;
+    behavior: smooth;
+    -webkit-transition: 0.3s  ease-in-out;
+}
+.list-group-item-action:hover{
+    color: rgb(243, 9, 9) !important;
+    behavior: smooth;
+    -webkit-transition: 0.3s  ease-in-out;
+}
+.modal-btn-list{
+    margin-left: 20% !important;
+}
+.sub-div{
+    height: 15% !important;
+    width: 100% !important;
+    background-color: rgb(2, 2, 90) !important;
+}
+
+.btn-right{
+    margin-right: 30px; 
+    margin-left: 40px;
+}
+
+.bi{
+    margin: 10px;
+}
+.bi:hover{
+    color: rgba(0, 0, 0, 0.841) !important;
+}
+
+.left-topic{
+    margin-right: 162px !important;
+}
+.head-cont2{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    background-image: url("inac-head.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: 35% 45%;
+}
